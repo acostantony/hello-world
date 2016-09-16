@@ -1,2 +1,4 @@
 # hello-world
-simple Hello World for CIS 4100 Section 3.
+simple Hello World for Section 3.
+
+This is a sample for the Friday class.
